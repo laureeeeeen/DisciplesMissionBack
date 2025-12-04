@@ -1,0 +1,15 @@
+com\celula\Cadastro\services\CelulaService.class
+com\celula\Cadastro\repositories\CelulaRepository.class
+com\celula\Cadastro\config\CorsConfig.class
+enums\TipoUsuario.class
+com\celula\Cadastro\entities\Usuario.class
+com\celula\Cadastro\services\Coordenadas.class
+com\celula\Cadastro\controllers\UsuarioController.class
+com\celula\Cadastro\repositories\UsuarioRepository.class
+com\celula\Cadastro\services\UsuarioService.class
+com\celula\Cadastro\services\GeocodingService.class
+com\celula\Cadastro\CadastroApplication.class
+com\celula\Cadastro\config\CorsConfig$1.class
+com\celula\Cadastro\controllers\CelulaController.class
+com\celula\Cadastro\entities\Celula.class
+com\celula\Cadastro\services\NominatimResponse.class
